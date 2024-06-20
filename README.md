@@ -1,0 +1,1 @@
+# fastapi_self_project
